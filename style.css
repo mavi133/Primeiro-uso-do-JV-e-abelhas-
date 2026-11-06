@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(
+        135deg,
+        #d87707,
+        #d81fbf
+
+    );
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    color: rgb(231, 110, 146);
+    
+}
+
+.bodyy{
+   width: 350px;
+   margin: 60px auto;
+   background-color: aliceblue;
+   padding: 30px;
+   border-radius: 15px;
+   text-align: center;
+   color: rgb(165, 23, 221);
+
+}
